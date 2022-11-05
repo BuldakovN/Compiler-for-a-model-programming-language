@@ -1,0 +1,7 @@
+{
+	a,b,c:!;
+	input(a);
+	if (a>b) then 
+		output(a);
+	let c = b;
+}

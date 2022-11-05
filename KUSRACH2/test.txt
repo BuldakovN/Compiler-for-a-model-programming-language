@@ -1,0 +1,10 @@
+{
+% a;  
+% b; 
+while (a EQ 6) a := a PLUS 1; 
+if (a NE 5) writeln 5 else writeln a; 
+for a:= 0 to 5[step 2] begin 
+ b : = a MIN 2; 
+ writeln(b) 
+ end next; 
+}

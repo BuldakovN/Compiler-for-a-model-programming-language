@@ -1,0 +1,17 @@
+{
+	a,b,c:%;
+	input(a);
+	do while (a<3){
+		let a = 5;
+		let b = a
+	} loop;
+	for(;;)
+		output(b);
+	if(5>3) then { 
+		input(a);
+		output(a)
+	}
+	else
+		input(b)
+	end_else;
+}
